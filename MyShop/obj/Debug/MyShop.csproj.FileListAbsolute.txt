@@ -1,0 +1,6 @@
+C:\Users\Laptop\source\repos\MyShop\MyShop\bin\Debug\MyShop.exe.config
+C:\Users\Laptop\source\repos\MyShop\MyShop\bin\Debug\MyShop.exe
+C:\Users\Laptop\source\repos\MyShop\MyShop\bin\Debug\MyShop.pdb
+C:\Users\Laptop\source\repos\MyShop\MyShop\obj\Debug\MyShop.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\MyShop\MyShop\obj\Debug\MyShop.exe
+C:\Users\Laptop\source\repos\MyShop\MyShop\obj\Debug\MyShop.pdb
